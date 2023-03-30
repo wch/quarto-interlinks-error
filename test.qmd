@@ -1,0 +1,8 @@
+---
+title: "Input controls"
+---
+
+:::{.callout-note}
+In these UI examples there's no server logic, so we're just using `None` instead of a server function.
+:::
+
