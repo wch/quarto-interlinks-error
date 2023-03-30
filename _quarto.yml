@@ -5,3 +5,8 @@ project:
 
 filters:
   - interlinks
+
+interlinks:
+  sources:
+    python:
+      url: https://docs.python.org/3/
